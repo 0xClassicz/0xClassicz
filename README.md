@@ -83,18 +83,6 @@ I'm currently pursuing an **Associate of Applied Science (A.A.S.) in Cybersecuri
 
 ---
 
-## 📊 GitHub Stats
-
-> 
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xClassiczE&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xClassicz&layout=compact&theme=tokyonight)
-```
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: *https://www.linkedin.com/in/breandan-king/*
