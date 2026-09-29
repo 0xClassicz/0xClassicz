@@ -1,5 +1,6 @@
-### Breandan King 
+### Breandan King
 > /'bren.den king/
+
 
 ## 🛡️ About Me
 
@@ -22,6 +23,7 @@ I'm currently pursuing an **Associate of Applied Science (A.A.S.) in Cybersecuri
 ## 🛠️ Skills & Technologies
 
 ### Networking
+
 - Cisco IOS
 - VLANs
 - Routing & Switching
@@ -32,11 +34,13 @@ I'm currently pursuing an **Associate of Applied Science (A.A.S.) in Cybersecuri
 - Network Troubleshooting
 
 ### Operating Systems
+
 - Kali Linux
 - Ubuntu
 - Windows 10/11
 
 ### Cybersecurity
+
 - Penetration Testing
 - Vulnerability Assessment
 - Network Security
@@ -45,6 +49,7 @@ I'm currently pursuing an **Associate of Applied Science (A.A.S.) in Cybersecuri
 - Basic Digital Forensics
 
 ### Programming & Scripting
+
 - Python
 - Bash
 - PowerShell
@@ -52,6 +57,7 @@ I'm currently pursuing an **Associate of Applied Science (A.A.S.) in Cybersecuri
 - JavaScript
 
 ### Tools
+
 - Wireshark
 - Nmap
 - Metasploit
@@ -85,9 +91,9 @@ I'm currently pursuing an **Associate of Applied Science (A.A.S.) in Cybersecuri
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *https://www.linkedin.com/in/breandan-king/*
-- 🌐 Portfolio: *https://github.com/0xClassicz/CyberSecurity.Portfolio*
-- 📧 Email: *rapidstrike25@proton.me*
+- 💼 LinkedIn: *<https://www.linkedin.com/in/breandan-king/>*
+- 🌐 Portfolio: *<https://github.com/0xClassicz/CyberSecurity.Portfolio>*
+- 📧 Email: *<breandan.king@proton.me>*
 
 ---
 
