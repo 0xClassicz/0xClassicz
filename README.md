@@ -1,6 +1,6 @@
 ### Breandan King
+>
 > /'bren.den king/
-
 
 ## 🛡️ About Me
 
@@ -93,7 +93,7 @@ I'm currently pursuing an **Associate of Applied Science (A.A.S.) in Cybersecuri
 
 - 💼 LinkedIn: *<https://www.linkedin.com/in/breandan-king/>*
 - 🌐 Portfolio: *<https://github.com/0xClassicz/CyberSecurity.Portfolio>*
-- 📧 Email: *<breandan.king@proton.me>*
+- 📧 Email: *<151550026+0xClassicz@users.noreply.github.com>*
 
 ---
 
