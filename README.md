@@ -38,6 +38,7 @@ I'm currently pursuing an **Associate of Applied Science (A.A.S.) in Cybersecuri
 - Kali Linux
 - Ubuntu
 - Windows 10/11
+- Arch Linux
 
 ### Cybersecurity
 
